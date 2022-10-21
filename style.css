@@ -1,0 +1,7 @@
+.container-fluid {
+    height: 100vh;
+}
+
+.triple-height {
+    height: calc(100%/3);
+}
